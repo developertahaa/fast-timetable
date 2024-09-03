@@ -1,0 +1,17 @@
+/* General Styles */
+body {
+    padding-top: 20px;
+}
+
+.card {
+    border-radius: 8px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+
+.download{
+    padding-top: 4px;
+}
